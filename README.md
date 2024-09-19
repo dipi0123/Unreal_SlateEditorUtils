@@ -1,4 +1,4 @@
 # Unreal_SlateEditorUtils
 
-Migrate to Unreal Organization Repository
+Migrate to UnrealDP Organization Repository
 : https://github.com/UnrealDP/SlateEditorUtils.git
